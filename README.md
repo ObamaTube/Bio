@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cool
 
-- 👀 I’m interested in Hacking/system design/game development
+- 👀 I’m interested in security research/system design/game development
 
 - 🌱 I’m currently learning C++/c#
 
